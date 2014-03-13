@@ -1,0 +1,15 @@
+{
+  "name": "yuehu-on-stop",
+  "description": "Execute when user stops.",
+  "version": "0.1.0",
+  "keywords": [
+    "event",
+    "stop",
+    "keyboard"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}

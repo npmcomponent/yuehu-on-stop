@@ -2,7 +2,7 @@
  * Execute the given function when user stops.
  */
 
-var events = require('event');
+var events = require('component-event');
 
 module.exports = function(el, func, options) {
   options = options || {};
